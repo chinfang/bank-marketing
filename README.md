@@ -1,4 +1,4 @@
-# Analyse local explanation using SHAP explanation model for UCI bank-marketing dataset
+# Analyse local explanation for UCI bank-marketing dataset
 The goal of this project is to determine the utility of the explanation for users. The
 explanation derived from local explanation methods can be locally accurate. However, users need
 to have a specific instance that they are interested in. The model behaviour is also difficult to
