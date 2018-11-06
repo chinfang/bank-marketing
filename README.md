@@ -1,8 +1,9 @@
 # Analyse local explanation for UCI bank-marketing dataset
 The goal of this project is to determine the utility of the explanation for users. The
-explanation derived from local explanation methods can be locally accurate. However, users need
+explanation derived from local explanation methods can be considered as how each feature contributes
+to the model prediction for single instance. The explanation can be locally accurate. However, users need
 to have a specific instance that they are interested in. The model behaviour is also difficult to
-estimate from a local explanation. To help users extract useful explanations, we show a
+estimate from one local explanation. To help users extract useful explanations, we show a
 process for understanding the model from aggregating the explanations to the model and group levels 
 with different visualization techniques.
 
